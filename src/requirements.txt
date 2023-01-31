@@ -1,0 +1,8 @@
+fastapi
+uvicorn 
+mangum
+requests
+werkzeug
+boto3
+python-decouple
+pylint
