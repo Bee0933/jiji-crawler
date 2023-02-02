@@ -3,7 +3,7 @@ version = 0.1
 [default.deploy]
 [default.deploy.parameters]
 stack_name = "jiji-crawler"
-s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-z7i4yhla5tyl"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-17i9kapriujed"
 s3_prefix = "jiji-crawler"
 region = "us-east-1"
 confirm_changeset = true
